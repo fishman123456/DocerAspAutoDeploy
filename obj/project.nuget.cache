@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8kTnyT5yJ/E1dKYtszGu2hnlvKtHc5UoL/8vfRVOiRbYM5RahkfncaUpxpBfir2l/nS2meXO9JCubrcTUYeTg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\DocerAspAutoDeploy\\DocerAspAutoDeploy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

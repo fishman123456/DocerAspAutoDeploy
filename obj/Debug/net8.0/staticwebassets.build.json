@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i2vYLY8h9x2N/kw4exabh/826jRgUlvwJ0bvSkYkQ7s=",
+  "Source": "DocerAspAutoDeploy",
+  "BasePath": "_content/DocerAspAutoDeploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
